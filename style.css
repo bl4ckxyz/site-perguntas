@@ -13,6 +13,7 @@ button {
     background-color: #64A712;
     color: white;
     font-family: "Bai Jamjuree", sans-serif;
+    border-radius: 10px 20px 30px 40px;
 }
 
 .passo {
